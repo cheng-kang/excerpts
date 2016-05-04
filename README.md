@@ -1,5 +1,4 @@
-# excerpts
-Excerpts from books I read.
+### 读书笔记
 
 
 1. 《另一种文化》——王小波
