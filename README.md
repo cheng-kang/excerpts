@@ -32,3 +32,7 @@
 8. 《培根随笔-谈美》——培根
 
   > 我并不是认为画家不应当画出一幅美丽绝伦的面孔，而是认为他必须借助一种手气（如同音乐家谱出名曲一样），而不是依赖一种规矩。
+  
+9. Jon Postel
+
+  > Be conservative in what you send and liberal in what you accept.
