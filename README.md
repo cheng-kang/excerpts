@@ -36,3 +36,7 @@
 9. Jon Postel
 
   > Be conservative in what you send and liberal in what you accept.
+  
+10. 《菊与刀》——Ruth Benedict
+
+  > “自我负责”精神，亦即他们所说的自己负责擦掉“身上的锈”——这一比喻把身体比作刀，正如佩刀者有责任保护刀的光洁，人也要对自己的行为的后果负责。他必须承认并接受由于自己的弱点、缺少耐心和无效率而产生的一切自然后果。
